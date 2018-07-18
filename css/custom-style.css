@@ -134,4 +134,15 @@ margin-top: 2em;
 /*---custom classes and IDs---*/
 .header-student-type{
 	padding: 0 0 0 1rem;
+	color: #4c4c4c;
+	font-size: 3rem;
+}
+
+.alumni > aside > img {
+	height: 12rem;
+	border: none;
+}
+
+.first-entry{
+	border-top: 1px solid lightgrey;
 }
